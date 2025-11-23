@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+openpyxl
+mlflow
+joblib
+sqlalchemy
+pyodbc
+statsmodels
+ipykernel
